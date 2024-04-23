@@ -79,7 +79,7 @@ class _WeatherPageState extends State<WeatherPage> {
         appBar: AppBar(
           backgroundColor: const Color.fromARGB(255, 58, 129, 186),
           title: const Text(
-            'Weather App',
+            'Weather Appp',
             style: TextStyle(color: Color.fromARGB(255, 255, 255, 255)),
           ),
           centerTitle: true,
